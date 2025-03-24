@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="termcolor"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\_deps\;CMake Files\cmake-build-debug\_deps\termcolor-src\;CMake Files\cmake-build-debug\_deps\termcolor-src\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\termcolor-src\"/>
+		</Unit>
+		<Unit filename="/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-src/cmake/config.cmake.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\termcolor-src\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

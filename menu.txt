@@ -1,0 +1,11 @@
+=== Shopping Cart Menu ===
+1. Add item
+2. Remove item
+3. List items
+4. Get number of items
+5. Clear cart
+6. Save cart to file
+7. Display cart (operator<<)
+0. Exit
+==========================
+Enter your choice:

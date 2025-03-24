@@ -1,0 +1,3 @@
+/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-subbuild/CMakeFiles/edit_cache.dir
+/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-subbuild/CMakeFiles/rebuild_cache.dir
+/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-subbuild/CMakeFiles/termcolor-populate.dir
