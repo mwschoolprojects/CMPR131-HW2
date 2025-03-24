@@ -55,7 +55,7 @@ add_library(termcolor::termcolor INTERFACE IMPORTED)
 
 set_target_properties(termcolor::termcolor PROPERTIES
   INTERFACE_COMPILE_FEATURES "cxx_std_11"
-  INTERFACE_INCLUDE_DIRECTORIES "${_IMPORT_PREFIX}/include"
+  INTERFACE_INCLUDE_DIRECTORIES "${_IMPORT_PREFIX}/include;${_IMPORT_PREFIX}/include"
 )
 
 if(CMAKE_VERSION VERSION_LESS 3.0.0)

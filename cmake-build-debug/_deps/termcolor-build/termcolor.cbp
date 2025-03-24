@@ -21,6 +21,9 @@
 		<Unit filename="/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
+		<Unit filename="/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/menu.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
 		<Unit filename="/home/mwiner/SchoolProjects/CMPR-131/CMPR131-HW2/cmake-build-debug/_deps/termcolor-src/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\cmake-build-debug\_deps\termcolor-src\"/>
 		</Unit>
